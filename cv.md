@@ -23,11 +23,11 @@ I am a excellent team worker, who has good both hard and soft skills.
 * Git
 
 ## Experience 
-Home Credit Bank Kazakhstan - software developer
-LLC BRD - system administrator
-Resort Kanuchya Bay in Okinawa, Japan - recepsionist
-Insurance company Tsesna Garant - specialist of regional development
+* Home Credit Bank Kazakhstan - software developer
+* LLC BRD - system administrator
+* Resort Kanuchya Bay in Okinawa, Japan - recepsionist
+* Insurance company Tsesna Garant - specialist of regional development
 
 ## Education
-Kazakh British Technical University - Information systems/Data science track
-Narxoz
+* Kazakh British Technical University - Information systems/Data science track
+* Narxoz
