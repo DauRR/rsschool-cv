@@ -1,1 +1,1 @@
-https://DauRR.github.io/rsschool-cv/cv
+https://DauRR.github.io/rsschool-cv/
